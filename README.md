@@ -2,7 +2,7 @@
 
 # Introduction
 
-This project analyse the impact of Artificial Interlligence (AI) on business performance across variouse industries  using Excel and Power BI. The analysis provide important insights to help organizations make informed decisions regarding AI implimentationa nd business strategy.
+This project analyzes the impact of Artificial Intelligence (AI) on business performance across various  industries  using Excel and Power BI. The analysis provide important insights to help organizations make informed decisions regarding AI implimentation and business strategy.
 
 # Dataset Information
 
